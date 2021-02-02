@@ -1,0 +1,16 @@
+.timeSlot{
+    margin: 10px;
+    border: 1px solid #80808078;
+    box-shadow: 0 0 10px -2px #48497926;
+    cursor: pointer;
+    transition: all .4s ease-in-out;
+    font-weight: 500;
+}
+.timeSlot:hover{
+    transform: scale(1.08);
+}
+p{
+    padding: 20px;
+    margin: 0;
+    color: black;
+}

@@ -1,0 +1,5 @@
+.timeSlot-option{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
